@@ -74,8 +74,5 @@ This assignment demonstrates Python file handling operations, including reading,
 - Python 3.x
 - No external libraries required.
 - The `os` module is used for checking file existence in Task 6.
-
-
 ## Learning Outcome
-
 This assignment provides practical experience with Python file handling, text file processing, safe file access, user input, and generating simple reports from stored data.
