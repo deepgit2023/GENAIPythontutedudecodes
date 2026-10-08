@@ -1,0 +1,3 @@
+pencil | 10
+box | 20
+sharpner | 5
